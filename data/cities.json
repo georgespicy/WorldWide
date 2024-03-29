@@ -11,6 +11,30 @@
         "lat": "40.613952441166596",
         "lng": "-3.0761718750000004"
       }
+    },
+    {
+      "id": "d3c3",
+      "cityName": "Senes de Alcubierre",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T10:11:05.428Z",
+      "notes": "george",
+      "position": {
+        "lat": "41.902277040963696",
+        "lng": "-0.5053710937500001"
+      }
+    },
+    {
+      "id": "3de3",
+      "cityName": "Mers-sur-Indre",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-29T10:11:15.428Z",
+      "notes": "lol",
+      "position": {
+        "lat": "46.649436163350245",
+        "lng": "1.8676757812500002"
+      }
     }
   ]
 }
