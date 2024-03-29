@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,67 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "5696",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T08:52:28.886Z",
+      "notes": "posting",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "1.5380859375000002"
+      }
+    },
+    {
+      "id": "56c4",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T08:54:10.401Z",
+      "notes": "posting",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "1.5380859375000002"
+      }
+    },
+    {
+      "id": "5594",
+      "cityName": "Les Valls de Valira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-29T08:57:22.621Z",
+      "notes": "boring",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "1.5380859375000002"
+      }
+    },
+    {
+      "id": "09b9",
+      "cityName": "Ndali",
+      "country": "Benin",
+      "emoji": "🇧🇯",
+      "date": "2024-03-29T08:58:25.981Z",
+      "notes": "life inside life",
+      "position": {
+        "lat": "9.622414142924818",
+        "lng": "2.3510742187500004"
+      }
+    },
+    {
+      "id": "b778",
+      "cityName": "Ghardaia",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-03-29T09:05:43.453Z",
+      "notes": "nice",
+      "position": {
+        "lat": "32.627038461991624",
+        "lng": "3.8012695312500004"
+      }
     }
   ]
 }
